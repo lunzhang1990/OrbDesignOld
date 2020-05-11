@@ -1,4 +1,4 @@
-# parameterRepo
+# OrbModelRepo
 
 ## theta[2] < theta[1]
 
