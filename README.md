@@ -17,6 +17,8 @@
 7. symm_break_oocyte_dynamics.m:  this is a way to visualize dynamics in the P[1],P[2] phase plane and also check stability for a given parameter set
 ## theta[1] < theta[2]
 
+8. JacobianRank.nb: use to show the computation of jacobian rank in proposition 12
+
 It is symmetric as above.
 
 
