@@ -19,7 +19,7 @@
 
 8. JacobianRank.nb: use to show the computation of jacobian rank in proposition 12
 
-9. Region18.nb: use to generate the robustness cube from single point or region 18:1 when theta[2] < theta[1].
+9. Region18.nb: use to generate the robustness cube from single point of region 18:1 when theta[2] < theta[1].
 ## theta[1] < theta[2]
 
 
